@@ -11,7 +11,7 @@ YONO-Guard is an AI-powered cybersecurity solution designed to detect phishing l
 
 
 ## System Workflow
-flowchart.png
+![Flowchart](flowchart.png)
 
 
 ## Team
