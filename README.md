@@ -19,5 +19,5 @@ YONO-Guard is an AI-powered cybersecurity solution designed to detect phishing l
 - Aayush & Bhuvan Girish Desai – Backend
 
 
-## 🎯 Goal
+## Goal
 To reduce phishing-based fraud and enhance trust in SBI’s digital ecosystem.
