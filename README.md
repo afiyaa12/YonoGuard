@@ -14,7 +14,7 @@ YONO-Guard is an AI-powered cybersecurity solution designed to detect phishing l
 
 
 ## Team
-- Afiya Kamal – Frontend & UI
+- Afiya Jabeen Kamal – Frontend & UI
 - Kingshuk Pattadar & Anishka Agrawal – AI/ML
 - Aayush & Bhuvan Girish Desai – Backend
 
